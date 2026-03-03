@@ -1,2 +1,5 @@
-Hello Git
-Feature update added
+<<<<<<< HEAD
+code from main
+=======
+code from bug-fix
+>>>>>>> bug-fix
